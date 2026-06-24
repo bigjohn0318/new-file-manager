@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_launcher_name_g">Файлы</string>
+    <string name="storage_used">Даступна %1$s з %2$s</string>
+    <string name="system">Сістэма</string>
+    <string name="apps">Праграмы</string>
+    <string name="manage_storage">Кіраванне сховішчам</string>
+    <string name="show_folder_icons">Паказаць значкі папак</string>
+    <string name="access_app_ops_service">Калі ласка, дайце нашаму дадатку доступ да выкарыстання, без яго мы не зможам ведаць памер усіх дадаткаў.</string>
+    <string name="show_home_button">Паказаць кнопку \"Галоўная\"</string>
+    <string name="cannot_be_inserted_into_itself">Аб\'ект нельга ўставіць у сябе</string>
+    <string name="show_only_filename">Паказваць толькі назву файла/тэчкі</string>
+    <string name="maximum_number_recent_files">Максімальная колькасць нядаўніх файлаў</string>
+    <string name="size_of_icons">Памер значкоў (папак/файлаў)</string>
+</resources>

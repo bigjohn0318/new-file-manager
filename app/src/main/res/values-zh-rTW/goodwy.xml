@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_launcher_name_g">文件</string>
+    <string name="storage_used">剩餘 %1$s 的 %2$s 可用</string>
+    <string name="system">系統</string>
+    <string name="apps">應用</string>
+    <string name="manage_storage">管理儲存</string>
+    <string name="show_folder_icons">顯示資料夾圖示</string>
+    <string name="access_app_ops_service">請授予我們的應用程式使用情況存取權限，否則我們將無法知道所有應用程式的大小。</string>
+    <string name="show_home_button">顯示主頁按鈕</string>
+    <string name="cannot_be_inserted_into_itself">物體不能插入自身。</string>
+    <string name="show_only_filename">僅顯示檔案/資料夾名稱</string>
+    <string name="maximum_number_recent_files">最近文件的最大數量</string>
+    <string name="size_of_icons">圖示大小（資料夾/文件）</string>
+</resources>

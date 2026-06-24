@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_launcher_name_g">Tiedostot</string>
+    <string name="storage_used">%1$s/%2$s saatavilla</string>
+    <string name="system">Järjestelmä</string>
+    <string name="apps">Sovellukset</string>
+    <string name="manage_storage">Hallitse tallennustilaa</string>
+    <string name="show_folder_icons">Näytä kansion kuvakkeet</string>
+    <string name="access_app_ops_service">Myönnä sovelluksellemme käyttöoikeus. Ilman sitä emme voi tietää kaikkien sovellusten kokoa.</string>.
+    <string name="show_home_button">Näytä Etusivu-painike</string>
+    <string name="cannot_be_inserted_into_itself">Objektia ei voi lisätä itseensä</string>
+    <string name="show_only_filename">Näytä vain tiedoston/kansion nimi</string>
+    <string name="maximum_number_recent_files">Viimeisimpien tiedostojen enimmäismäärä</string>
+    <string name="size_of_icons">Kuvakkeiden koko (kansioiden/tiedostojen)</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_launcher_name_g">Dosieroj</string>
+    <string name="storage_used">%1$s el %2$s haveblaj</string>
+    <string name="system">Sistemo</string>
+    <string name="apps">Aplikaĵoj</string>
+    <string name="manage_storage">Administri stokadon</string>
+    <string name="show_folder_icons">Montri dosierujajn piktogramojn</string>
+    <string name="access_app_ops_service">Bonvolu doni al nia aplikaĵo aliron al uzado, sen ĝi ni ne povas scii la grandecon de ĉiuj aplikaĵoj.</string>
+    <string name="show_home_button">Montri Hejman butonon</string>
+    <string name="cannot_be_inserted_into_itself">Objekto ne povas esti enigita en sin mem</string>
+    <string name="show_only_filename">Montri nur dosiernomon/dosierujon</string>
+    <string name="maximum_number_recent_files">Maksimuma nombro de lastatempaj dosieroj</string>
+    <string name="size_of_icons">Grandeco de ikonoj (de dosierujoj/dosieroj)</string>
+</resources>
